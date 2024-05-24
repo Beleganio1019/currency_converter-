@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_from" type="id" />
+    <item name="tv_to" type="id" />
+    <item name="tv_result" type="id" />
+    <item name="edt_amount" type="id" />
+    <item name="btnusd" type="id" />
+    <item name="btngbp" type="id" />
+    <item name="btnaus" type="id" />
+    <item name="btncan" type="id" />
+    <item name="btnjpy" type="id" />
+    <item name="btnuero" type="id" />
+</resources>

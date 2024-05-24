@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">currencyconverter application</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="usd">USD</string>
+    <string name="gbp">GBP</string>
+    <string name="eur">eur</string>
+    <string name="aus">AUS$</string>
+    <string name="can">CAN $</string>
+    <string name="jpv">JPV</string>
+    <string name="USD">USD</string>
+    <string name="US_178pkr">US$ =178Pkr</string>
+    <string name="GBP">GBP</string>
+    <string name="GBP_239pkr">GBP = 239Pkr</string>
+    <string name="CAN">CAN$</string>
+    <string name="CAN_139pkr">CAN$ = 139Pkr</string>
+    <string name="jpy_1_52pkr">JPY=1.52Pkr</string>
+    <string name="result">RESULT</string>
+</resources>
